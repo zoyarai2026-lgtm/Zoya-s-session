@@ -5,13 +5,14 @@ Let's Learn How to create our own documentation site!
 ## Create a Github Account
 
 ![Screenshot_2026-10-18_at_11.29.12_AM](https://drive.google.com/thumbnail?id=1zhDL7TnheCEJC9fPAmWHmvA29L2OJKwD&sz=w800)
+
 - Copy the site by selecting fork
 
 - Go to code and select codespace
 
-- Edit any thing you would like and delete 
+- Edit any thing you would like to have or delete 
 ![Screenshot_2026-10-18_at_11.37.40_AM](https://drive.google.com/thumbnail?id=1F552KKuoSV3SnJRAdkjVZHWDfl5M6dKr&sz=w800)
-- To confirm trhat it appears on your website
+- To confirm that it appears on your website
 
 - Go to Source Change file
 
