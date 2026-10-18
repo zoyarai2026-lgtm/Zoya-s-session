@@ -5,7 +5,8 @@ title: About Me
 # About Me
 
 <!-- ============================================================
-     I am Zoya and I had been atending Anith Sir's session for a while and I look forward to learning more.
+     I am Zoya and I had been atending Anith Sir's session for a while and I look forward to learning more and I love to learn new things and develop new skills.
+     
 
      To use a Google Drive profile photo, see the image section.
      ============================================================ -->
