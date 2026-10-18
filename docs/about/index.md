@@ -5,7 +5,8 @@ title: About Me
 # About Me
 
 <!-- ============================================================
-     INSTRUCTIONS: Replace placeholder text below with your info.
+     I am Zoya and I had been atending Anith Sir's session for a while and I look forward to learning more.
+     
      To use a Google Drive profile photo, see the image section.
      ============================================================ -->
 
