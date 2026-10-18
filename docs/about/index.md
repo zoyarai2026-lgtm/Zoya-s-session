@@ -6,7 +6,7 @@ title: About Me
 
 <!-- ============================================================
      I am Zoya and I had been atending Anith Sir's session for a while and I look forward to learning more.
-     
+
      To use a Google Drive profile photo, see the image section.
      ============================================================ -->
 
@@ -32,8 +32,8 @@ title: About Me
 
 > _"Living, Learning, Growing."_
 
-A short paragraph about yourself. Describe who you are, what you're passionate about,
-and what drives you. Keep it personal and authentic — this is your space!
+I am Zoya and I have attending Anith Sir's session for a while and I look forward to learn more
+
 
 </div>
 
