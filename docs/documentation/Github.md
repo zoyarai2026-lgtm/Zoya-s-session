@@ -6,10 +6,13 @@ Let's Learn How to create our own documentation site!
 
 ![Screenshot_2026-10-18_at_11.29.12_AM](https://drive.google.com/thumbnail?id=1zhDL7TnheCEJC9fPAmWHmvA29L2OJKwD&sz=w800)
 - Copy the site by selecting fork
+
 - Go to code and select codespace
-- Edit any thinbg youw ould like and delete 
+
+- Edit any thing you would like and delete 
 ![Screenshot_2026-10-18_at_11.37.40_AM](https://drive.google.com/thumbnail?id=1F552KKuoSV3SnJRAdkjVZHWDfl5M6dKr&sz=w800)
 - To confirm trhat it appears on your website
+
 - Go to Source Change file
 
 ![Screenshot_2026-10-18_at_11.39.15_AM](https://drive.google.com/thumbnail?id=10bLvoUvKxAD87gcwkF5Z9lTYj-saNUZz&sz=w800)
@@ -21,7 +24,6 @@ Let's Learn How to create our own documentation site!
 ![Screenshot_2026-10-18_at_11.45.40_AM](https://drive.google.com/thumbnail?id=1AJP6Hz4yKPUDwsYdbWTDIb6-QyUcK7QW&sz=w800)
 ## That's the basics of learning how to   document your progress!
 ## Thank you
-
 
 
 
