@@ -8,7 +8,7 @@ title: About Me
      I am Zoya and I had been atending Anith Sir's session for a while and I look forward to learning more and I love to learn new things and develop new skills.
      
 
-     To use a Google Drive profile photo, see the image section.
+     https://drive.google.com/file/d/1QMsDQ7wEg_jhiljBwH5cfo0NMbdfcZkI/view
      ============================================================ -->
 
 <div class="profile-section" markdown>
